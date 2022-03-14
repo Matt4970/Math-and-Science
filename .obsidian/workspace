@@ -1,49 +1,32 @@
 {
   "main": {
-    "id": "0ec9eee28b6d0916",
+    "id": "022a7bca3f41a6f3",
     "type": "split",
     "children": [
       {
-        "id": "bcf93700d33dfbc0",
+        "id": "a7d7e767b62d98e9",
         "type": "leaf",
-        "dimension": 49.1025641025641,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Chemistry TODO/Chemistry TOC.md",
-            "mode": "source",
-            "source": true
+            "mode": "source"
           }
-        },
-        "group": "eaea96b7950d5621"
-      },
-      {
-        "id": "1124e11a63d5c5c1",
-        "type": "leaf",
-        "dimension": 50.8974358974359,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chemistry TODO/Chemistry TOC.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "eaea96b7950d5621"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2473b9b67004afc0",
+    "id": "b651c50dda9efe40",
     "type": "split",
     "children": [
       {
-        "id": "7c6027e107434e07",
+        "id": "e012dbbd463f5e47",
         "type": "tabs",
         "children": [
           {
-            "id": "b61d73bbd74eec00",
+            "id": "235c5d300e95fe45",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +34,7 @@
             }
           },
           {
-            "id": "7d1f75b1f37c144a",
+            "id": "68cf676ccdb5b1c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "54093831ee31e5d7",
+    "id": "4bfb1338bd71672d",
     "type": "split",
     "children": [
       {
-        "id": "b3a9ba7e194ac2f9",
+        "id": "afc8a25b0a263f1f",
         "type": "tabs",
         "children": [
           {
-            "id": "e27423f1a428ffec",
+            "id": "88a996de97ac1c7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,13 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bcf93700d33dfbc0",
+  "active": "a7d7e767b62d98e9",
   "lastOpenFiles": [
-    "Chemistry TODO/Chemistry TOC.md",
-    "Physics/Laws.md",
-    "Calc/Calc TOC.md",
-    "Physics/Momentum and Impulse.md",
-    "Calc/Derivative Rules.md",
-    "Physics/Collisions.md"
+    "Chemistry TODO/Chemistry TOC.md"
   ]
 }
