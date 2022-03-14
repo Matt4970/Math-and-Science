@@ -1,45 +1,49 @@
 {
   "main": {
-    "id": "dfe8299c709eb215",
+    "id": "0ec9eee28b6d0916",
     "type": "split",
     "children": [
       {
-        "id": "12e6c9695fb08e81",
+        "id": "bcf93700d33dfbc0",
         "type": "leaf",
+        "dimension": 49.1025641025641,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Chemistry TODO/Chemistry TOC.md",
-            "mode": "source"
+            "mode": "source",
+            "source": true
           }
         },
-        "group": "7ba3f47a9086f276"
+        "group": "eaea96b7950d5621"
       },
       {
-        "id": "ef1ceb5c174f03e2",
+        "id": "1124e11a63d5c5c1",
         "type": "leaf",
+        "dimension": 50.8974358974359,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Chemistry TODO/Chemistry TOC.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": true
           }
         },
-        "group": "7ba3f47a9086f276"
+        "group": "eaea96b7950d5621"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd67240b8910c7e8",
+    "id": "2473b9b67004afc0",
     "type": "split",
     "children": [
       {
-        "id": "114d01940974d1b4",
+        "id": "7c6027e107434e07",
         "type": "tabs",
         "children": [
           {
-            "id": "314fbfbaa26fe149",
+            "id": "b61d73bbd74eec00",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +51,7 @@
             }
           },
           {
-            "id": "1dd45b01723c2899",
+            "id": "7d1f75b1f37c144a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "72f7d25f9dd56858",
+    "id": "54093831ee31e5d7",
     "type": "split",
     "children": [
       {
-        "id": "2a7d74605fa9218c",
+        "id": "b3a9ba7e194ac2f9",
         "type": "tabs",
         "children": [
           {
-            "id": "62ea2ee55e7a1c88",
+            "id": "e27423f1a428ffec",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -99,17 +103,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12e6c9695fb08e81",
+  "active": "bcf93700d33dfbc0",
   "lastOpenFiles": [
     "Chemistry TODO/Chemistry TOC.md",
     "Physics/Laws.md",
-    "Physics/Momentum and Impulse.md",
-    "Physics/Collisions.md",
-    "Calc/Derivative Rules.md",
-    "Physics/Physics TOC.md",
     "Calc/Calc TOC.md",
-    "Physics/Principles.md",
-    "Pre Calc/Equations of a Line.md",
-    "Pre Calc/Difference of Squares and Cubes.md"
+    "Physics/Momentum and Impulse.md",
+    "Calc/Derivative Rules.md",
+    "Physics/Collisions.md"
   ]
 }
