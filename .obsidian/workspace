@@ -1,45 +1,32 @@
 {
   "main": {
-    "id": "dfe8299c709eb215",
+    "id": "022a7bca3f41a6f3",
     "type": "split",
     "children": [
       {
-        "id": "24f7fc9a6519e73f",
+        "id": "a7d7e767b62d98e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Electromagnetism.md",
+            "file": "Chemistry TODO/Chemistry TOC.md",
             "mode": "source"
           }
-        },
-        "group": "88665276f20634fa"
-      },
-      {
-        "id": "a13a4664dab78456",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physics/Electromagnetism.md",
-            "mode": "preview"
-          }
-        },
-        "group": "88665276f20634fa"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd67240b8910c7e8",
+    "id": "b651c50dda9efe40",
     "type": "split",
     "children": [
       {
-        "id": "114d01940974d1b4",
+        "id": "e012dbbd463f5e47",
         "type": "tabs",
         "children": [
           {
-            "id": "314fbfbaa26fe149",
+            "id": "235c5d300e95fe45",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +34,7 @@
             }
           },
           {
-            "id": "1dd45b01723c2899",
+            "id": "68cf676ccdb5b1c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "72f7d25f9dd56858",
+    "id": "4bfb1338bd71672d",
     "type": "split",
     "children": [
       {
-        "id": "2a7d74605fa9218c",
+        "id": "afc8a25b0a263f1f",
         "type": "tabs",
         "children": [
           {
-            "id": "62ea2ee55e7a1c88",
+            "id": "88a996de97ac1c7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electromagnetism.md",
+                "file": "Chemistry TODO/Chemistry TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24f7fc9a6519e73f",
+  "active": "a7d7e767b62d98e9",
   "lastOpenFiles": [
-    "Physics/Electromagnetism.md",
-    "Physics/Principles.md",
-    "Physics/Physics TOC.md",
-    "Physics/Moving Charges in Magnetic Fields.md",
-    "Physics/Magnetic Fields and Poles.md",
-    "Physics/Momentum and Impulse.md",
-    "Physics/Hand Rules.md",
-    "Images/Wire between Magnetic Poles.PNG",
-    "Images/Proton and Magnetic Field.PNG",
-    "Images/Magnetic Field Strength Calculation.PNG"
+    "Chemistry TODO/Chemistry TOC.md"
   ]
 }
