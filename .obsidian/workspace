@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1d9bb29cb96480a5",
+        "id": "24f7fc9a6519e73f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry TODO/Chemistry TOC.md",
+            "file": "Physics/Electromagnetism.md",
             "mode": "source"
           }
         },
-        "group": "a757ab30540f8667"
+        "group": "88665276f20634fa"
       },
       {
-        "id": "624841969fd3f66c",
+        "id": "a13a4664dab78456",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry TODO/Chemistry TOC.md",
+            "file": "Physics/Electromagnetism.md",
             "mode": "preview"
           }
         },
-        "group": "a757ab30540f8667"
+        "group": "88665276f20634fa"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry TODO/Chemistry TOC.md",
+                "file": "Physics/Electromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d9bb29cb96480a5",
+  "active": "24f7fc9a6519e73f",
   "lastOpenFiles": [
-    "Chemistry TODO/Chemistry TOC.md",
-    "Pre Calc/Pre Calc TOC.md",
-    "Pre Calc/Difference of Squares and Cubes.md",
-    "Pre Calc/Equations of a Line.md",
-    "Calc/Derivative Rules.md",
-    "Calc/Calc TOC.md",
+    "Physics/Electromagnetism.md",
+    "Physics/Principles.md",
     "Physics/Physics TOC.md",
+    "Physics/Moving Charges in Magnetic Fields.md",
+    "Physics/Magnetic Fields and Poles.md",
     "Physics/Momentum and Impulse.md",
-    "Physics/Laws.md",
-    "Physics/Collisions.md"
+    "Physics/Hand Rules.md",
+    "Images/Wire between Magnetic Poles.PNG",
+    "Images/Proton and Magnetic Field.PNG",
+    "Images/Magnetic Field Strength Calculation.PNG"
   ]
 }

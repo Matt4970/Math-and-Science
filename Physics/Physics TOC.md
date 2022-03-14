@@ -2,5 +2,9 @@
 - [[Momentum and Impulse]]
 
 # Magnetism
- - [Electro-Magnetism Documentary](https://www.youtube.com/watch?v=OnKusqjytGM)
- -  [[Equations of a Line]]
+- [[Magnetic Fields and Poles]]
+- [[Electromagnetism]]
+- [[Moving Charges in Magnetic Fields]]
+- [[Conductors in Magnetic Fields]]
+# Resources to Check Out
+ - [Electromagnetism Documentary](https://www.youtube.com/watch?v=OnKusqjytGM)

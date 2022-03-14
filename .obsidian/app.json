@@ -4,5 +4,12 @@
   "livePreview": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "spellcheckDictionary": [
+    "Electro",
+    "tesla"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unmerged",
+  "attachmentFolderPath": "Images"
 }
