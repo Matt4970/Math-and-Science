@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chemistry TODO/Chemistry TOC.md",
-            "mode": "source"
+            "file": "Calc/Calc TOC.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "derivat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry TODO/Chemistry TOC.md",
+                "file": "Calc/Calc TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,15 @@
   },
   "active": "a7d7e767b62d98e9",
   "lastOpenFiles": [
-    "Chemistry TODO/Chemistry TOC.md"
+    "Calc/Calc TOC.md",
+    "Calc/Derivative Rules.md",
+    "Physics/Collisions.md",
+    "Physics/Electromagnetism.md",
+    "Physics/Hand Rules.md",
+    "Physics/Magnetic Fields and Poles.md",
+    "Physics/Physics TOC.md",
+    "Physics/Moving Charges in Magnetic Fields.md",
+    "Physics/Laws.md",
+    "Physics/Momentum and Impulse.md"
   ]
 }
