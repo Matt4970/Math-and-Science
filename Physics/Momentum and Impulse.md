@@ -13,5 +13,6 @@ N • s is equivalent to kg • m / s.
 
 ## Equation Types
 - [[Collisions]]
+%% Projectile Motion %%
 
 
