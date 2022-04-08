@@ -3,13 +3,13 @@ A force is exerted on a current carrying wire inside a magnetic field.
 
 A moving charge creates a magnetic field. If the charged particle passes through an external magnetic field the two fields may interact to product a force on the particle.
 
-The magnitude of the magnetic force on a current carrying conductor is given by.
+The magnitude of the magnetic force on a current carrying conductor is given by the #Force_BIL equation.
 $$ F_m = IL_⟂B $$
 Where
 - *Fm* is the magnetic force acting on the wire (N)
-- *B* is the magnetic field strength
-- *I* is current through the conductor (A)
-- *L*⟂ is the length of the conductor perpendicular to the magnetic field.
+- *B* is the magnetic field strength (T)
+- *I* is current through the conductor (A) (Amperes have base units of C / s)
+- *L*⟂ is the length of the conductor perpendicular to the magnetic field (m)
 
 Linked to [[Electromagnetism]].
 

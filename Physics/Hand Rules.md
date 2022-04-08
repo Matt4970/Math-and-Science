@@ -13,7 +13,7 @@ They are used to determine the electron flow, magnetic field direction and force
 ## Third Left Hand Rule for Moving Charged Particles in Magnetic Fields
 - Left thumb points in the direction of electron flow.
 - Fingers indicate the direction of permanent magnetic field (south).
-- The palm shows the direction of the moving electrons and the magnetic field.
+- The palm shows the direction of the moving electrons and the magnetic force that acts upon the electrons to make them move in that fashion.
 
 # Examples
 ## Horizontal Wire

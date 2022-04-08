@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calc/Calc TOC.md",
+            "file": "Physics/Hand Rules.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "derivat",
+                "query": "conven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calc/Calc TOC.md",
+                "file": "Physics/Hand Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a7d7e767b62d98e9",
   "lastOpenFiles": [
-    "Calc/Calc TOC.md",
-    "Calc/Derivative Rules.md",
-    "Physics/Collisions.md",
-    "Physics/Electromagnetism.md",
     "Physics/Hand Rules.md",
     "Physics/Magnetic Fields and Poles.md",
-    "Physics/Physics TOC.md",
-    "Physics/Moving Charges in Magnetic Fields.md",
+    "Physics/Momentum and Impulse.md",
+    "Physics/Collisions.md",
+    "Physics/Conductors in Magnetic Fields.md",
+    "Physics/Electromagnetism.md",
     "Physics/Laws.md",
-    "Physics/Momentum and Impulse.md"
+    "Physics/Moving Charges in Magnetic Fields.md",
+    "Physics/Physics TOC.md",
+    "Physics/Principles.md"
   ]
 }

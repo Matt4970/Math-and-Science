@@ -4,14 +4,18 @@
 - Opposites attract.
 
 ## Magnetic Fields (B)
-Magnetic fields are an attempt to explain the interaction of magnetic poles. It is the region where magnetic effects can be observed.
+Magnetic fields are an attempt to explain the interaction of magnetic poles. It is the region where magnetic effects can be observed. Magnetic fields that are traveling in the same direction repel while opposite fields attract, it is consistent with how poles work in this fashion. That idea with magnetic fields forms the basis of the Motor Principle.
 
-## Magnetic Filed Direction
+The below image depicts a wire carrying electrons being forced downwards since the motion of it's magnetic field is in the same direction as the magnets' magnetic field at the top. 
+
+![[Magnetic Field Interactions.PNG]]
+
+## Magnetic Field Direction
 It is defined as the direction the north end of a compass needle points (i.e, towards a south magnetic pole). The compass needle acts as a **test object** to test the direction of the field. The magnetic field lines can be drawn as shown.
 
 ![[Magnetic Field Lines.PNG]]
 
-Knowledge of this is needed for [[Electromagnetism]].
+[[Electromagnetism]] is the base.
 
 ## Examples
 
