@@ -1,5 +1,5 @@
 # Collisions
-![[Laws#Newton's Third Law]]
+![[Physics Laws#Newton's Third Law]]
 
 In all collisions the forces are always **equal** but **opposite**.
 That means that the #impulse experienced by both are always **equal** but **opposite**.
@@ -13,7 +13,7 @@ As the stopping **time increases** the stopping **force decreases**.
 
 Momentum before = momentum after in all collisions.
 
-![[Laws#Law of Conservation of Momentum]]
+![[Physics Laws#Law of Conservation of Momentum]]
 
 ### Isolated System
 An isolated system does not interact with anything outside of the system. No external forces are exerted. No energy is gained or lost.

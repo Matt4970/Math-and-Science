@@ -2,7 +2,7 @@
 There are three ways to charge an object. Friction, Conduction or Induction.
 Friction and Induction produce oppositely charged objects while conduction produces identically charged objects.
 
-![[Laws#Law of Conservation of Charge]]
+![[Physics Laws#Law of Conservation of Charge]]
 
 ## Friction
 Two objects are brought into contact and rubbed against each other. One of the substances has a greater affinity for electrons and becomes negatively charged. The other becomes positively charged. 

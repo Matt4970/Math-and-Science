@@ -4,7 +4,7 @@
 
 A mechanical oscillator is a mechanical system that obeys Newton's Laws Motion and that oscillates back and forth. This type of oscillators has key features.
 
-[[Laws#Newton's Laws of Motion]]
+[[Physics Laws#Newton's Laws of Motion]]
 
 ### Equilibrium Position
 A position where what ever is oscillating back and forth has a net force that is equal to **zero** so that if it was left there it would remain in that position. If it is disturbed there has to be a force that tries to relocate it back into this equilibrium position. **How this force changes with distance from the equilibrium position governs how this oscillator behaves**.
@@ -21,7 +21,7 @@ For a mechanical oscillator it is the **maximum displacement** of the mass from 
 ### Physical Parameters
 The motion of the oscillating system depends on the physical parameters. In terms of weight hanging on a spring the mass would determine how low the equilibrium is and increase the downward force due to gravity. The spring constant has an effect on the upwards force of the system and the higher the constant the further upwards the equilibrium position would be located. It goes without saying that these changes would effect the period, frequency and amplitude of the system as well. 
 
-To understand how the spring constant and mass of the weight are related to the system involves math pertaining to [[Laws#Newton's Second Law]] of motion.  Notes on the math involved can be found here -> [[Simple Harmonic Motion]].
+To understand how the spring constant and mass of the weight are related to the system involves math pertaining to [[Physics Laws#Newton's Second Law]] of motion.  Notes on the math involved can be found here -> [[Simple Harmonic Motion]].
 
 
 

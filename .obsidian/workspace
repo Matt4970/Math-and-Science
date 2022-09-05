@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem 103/Formatting Answers.md",
+            "file": "Chem 103/The Components of Matter.md",
             "mode": "preview",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem 103/Formatting Answers.md",
+            "file": "Chem 103/The Components of Matter.md",
             "mode": "source",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 103/Formatting Answers.md",
+                "file": "Chem 103/The Components of Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "width": 224.5,
     "collapsed": true
   },
-  "active": "c7404d17be0c4226",
+  "active": "35ec37d880eb863b",
   "lastOpenFiles": [
-    "Chem 103/Class Info.md",
-    "Chem 103/Formatting Answers.md",
     "Chem 103/Fundamental Definitions in Chemistry.md",
+    "Chem 103/Formatting Answers.md",
+    "Chem 103/The Components of Matter.md",
+    "Applicable to All/Chemistry Laws.md",
+    "Chem 103/Class Info.md",
+    "Applicable to All/Physics Laws.md",
     "Physics 130/Phase.md",
-    "Physics 130/Simple Harmonic Motion.md",
-    "Physics 130/Properties of Oscillations.md",
-    "Physics 30/Laws.md",
     "Physics 130/Physics 130 Course Information.md",
-    "Pre Calc/Equations of a Line.md",
-    "Pre Calc/Pre Calc TOC.md"
+    "Physics 130/Properties of Oscillations.md",
+    "Physics 130/Simple Harmonic Motion.md"
   ]
 }

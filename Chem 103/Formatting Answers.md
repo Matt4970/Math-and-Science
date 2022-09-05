@@ -1,4 +1,4 @@
-## Significant Digits
+a## Significant Digits
 Uncertainty: The inexactness of the measuring device and the need to estimate when taking a reading.
 
 ### Multiplication and Division
@@ -32,3 +32,19 @@ All of the digits are significant except zeroes used only to position the decima
 - If there is a decimal point and the zeroes lie either before or after it they *are* significant.
 - If there is *no* decimal point, we assume that the zeroes are *not* significant, unless exponential notation clarifies the quantity: 5300 is *assumed* to have two significant digits.
 - A terminal decimal point indicates that zeroes are significant: 500 mL has one significant figure, but 500. mL has three.
+
+## Rules for Arithmetic
+For **multiplication and division** the answer contains the same number of significant digits as there are in the measurement with the **fewest significant figures**.
+
+For **addition and subtraction** the answer has the same number of decimal places as there are in the measurement with the **fewest decimal places**.
+
+For **logarithms**, the answer has the same number of significant figures **after the decimal place** as there are in the number whose logarithm was taken. This rule can be applied to both natural logarithms (ln) and logarithms with base 10 (log).
+
+## Precision vs Accuracy
+**Precision**, or reproducibility, refers to *how close the measurements in a series are to each other*.
+**Accuracy** refers to *how close each measurement is to the actual value*.
+
+These terms are related to two widespread types of error:
+
+1. **Systematic error** produces values that are **either** all higher or all lower than the actual value.
+2. **Random error**, in the absence of systematic error, produces values that are higher **and** lower than the actual value. This type of error **always occurs**.

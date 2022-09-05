@@ -3,7 +3,7 @@ Knowledge of [[Fields#Electric Fields]] is crucial for parallel plates.
 
 ![[Parallel Plates Diagram.png]]
 
-![[Laws#Law of Conservation of Energy]]
+![[Physics Laws#Law of Conservation of Energy]]
 
 ### Solving Parallel Plate Questions
 Use energy for charged particles accelerating from one charged plate to another. Energy Potential is equal to Energy Kinetic when it is speeding up and vice versa for if it is slowing down.

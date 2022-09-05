@@ -22,7 +22,7 @@ It is defined as the direction the north end of a compass needle points (i.e, to
 ## Examples
 
 ### Compass
-A small compass is placed next to a powerful magnet and the compass needle points at the magnet as shown below. The dark end of the magnet is it's north pole. The forces on the compass needle and the bar magnet are identical according to [[Laws#Newton's Third Law]].
+A small compass is placed next to a powerful magnet and the compass needle points at the magnet as shown below. The dark end of the magnet is it's north pole. The forces on the compass needle and the bar magnet are identical according to [[Physics Laws#Newton's Third Law]].
 ![[Compass and Bar.PNG]]
 
 ### Magnetic Fields of a Horseshoe Magnet
