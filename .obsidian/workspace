@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem 103/Fundamental Definitions in Chemistry.md",
-            "mode": "preview"
+            "file": "Chem 103/Formatting Answers.md",
+            "mode": "preview",
+            "source": true
           }
         },
         "group": "b5ffe9681a0ce242"
@@ -21,8 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem 103/Fundamental Definitions in Chemistry.md",
-            "mode": "source"
+            "file": "Chem 103/Formatting Answers.md",
+            "mode": "source",
+            "source": true
           }
         },
         "group": "b5ffe9681a0ce242"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 103/Fundamental Definitions in Chemistry.md",
+                "file": "Chem 103/Formatting Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +110,9 @@
     "width": 224.5,
     "collapsed": true
   },
-  "active": "35ec37d880eb863b",
+  "active": "c7404d17be0c4226",
   "lastOpenFiles": [
+    "Chem 103/Class Info.md",
     "Chem 103/Formatting Answers.md",
     "Chem 103/Fundamental Definitions in Chemistry.md",
     "Physics 130/Phase.md",
@@ -118,7 +121,6 @@
     "Physics 30/Laws.md",
     "Physics 130/Physics 130 Course Information.md",
     "Pre Calc/Equations of a Line.md",
-    "Pre Calc/Pre Calc TOC.md",
-    "Pre Calc/Difference of Squares and Cubes.md"
+    "Pre Calc/Pre Calc TOC.md"
   ]
 }

@@ -15,3 +15,12 @@ A **liquid** contains particles with greater kinetic energy than the particles i
 A **gas** contains particles with a very high kinetic energy more than liquid. There are very weak intermolecular forces so if not contained it will spread indefinitely if left unconfined. Gases do not have a fixed volume and will conform to the shape of the container it is placed in.
 
 A **plasma** contains particles with very high kinetic energy. It behaves very much as a gas does in that it fills the entire container and does not have a fixed volume. It is composed of a mixture of neutral atoms, electrons, and ions, although it has a **net charge of zero**. **Plasma** is significantly affected by electrical and magnetic fields and although it is not commonly encountered on Earth it is believed to be the most common form of matter in the universe.
+
+The **Bose-Einstein Condensate (BEC)** was formed when a rubidium sample was cooled to a temperature close to -273 degrees Celsius (absolute zero). The kinetic energy in the particles was so low that the atoms began "clumping" together to form something like a "superatom". The BEC exhibits interesting properties such as **superfluidity** which is when the viscosity is zero so there is no resistance to flow and no kinetic energy lost when it moves.
+
+**Temperature is how a substance changes in between the states of matter.**
+
+## Energy
+**Potential energy** is the energy due to the position of the object relative to other objects.
+
+**Kinetic energy** is the energy due to the motion of the object.
