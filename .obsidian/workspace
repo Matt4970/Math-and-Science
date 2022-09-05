@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d7e767b62d98e9",
+        "id": "c7404d17be0c4226",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics/Hand Rules.md",
+            "file": "Chem 103/Fundamental Definitions in Chemistry.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "b5ffe9681a0ce242"
+      },
+      {
+        "id": "35ec37d880eb863b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chem 103/Fundamental Definitions in Chemistry.md",
+            "mode": "source"
+          }
+        },
+        "group": "b5ffe9681a0ce242"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conven",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "right": {
     "id": "4bfb1338bd71672d",
@@ -68,35 +81,44 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Hand Rules.md",
+                "file": "Chem 103/Fundamental Definitions in Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "435ebc4d5f32df0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 224.5,
     "collapsed": true
   },
-  "active": "a7d7e767b62d98e9",
+  "active": "35ec37d880eb863b",
   "lastOpenFiles": [
-    "Physics/Hand Rules.md",
-    "Physics/Magnetic Fields and Poles.md",
-    "Physics/Momentum and Impulse.md",
-    "Physics/Collisions.md",
-    "Physics/Conductors in Magnetic Fields.md",
-    "Physics/Electromagnetism.md",
-    "Physics/Laws.md",
-    "Physics/Moving Charges in Magnetic Fields.md",
-    "Physics/Physics TOC.md",
-    "Physics/Principles.md"
+    "Chem 103/Formatting Answers.md",
+    "Chem 103/Fundamental Definitions in Chemistry.md",
+    "Physics 130/Phase.md",
+    "Physics 130/Simple Harmonic Motion.md",
+    "Physics 130/Properties of Oscillations.md",
+    "Physics 30/Laws.md",
+    "Physics 130/Physics 130 Course Information.md",
+    "Pre Calc/Equations of a Line.md",
+    "Pre Calc/Pre Calc TOC.md",
+    "Pre Calc/Difference of Squares and Cubes.md"
   ]
 }

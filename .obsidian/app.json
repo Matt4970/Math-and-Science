@@ -7,9 +7,11 @@
   "defaultViewMode": "source",
   "spellcheckDictionary": [
     "Electro",
-    "tesla"
+    "tesla",
+    "Quantized",
+    "DeBroglie"
   ],
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "newFileFolderPath": "Unmerged",
   "attachmentFolderPath": "Images"
 }
