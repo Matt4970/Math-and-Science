@@ -1,4 +1,4 @@
-a## Significant Digits
+## Significant Digits
 Uncertainty: The inexactness of the measuring device and the need to estimate when taking a reading.
 
 ### Multiplication and Division
@@ -13,7 +13,7 @@ Answers have the same number of significant figures **after** the decimal place 
 pH = -log[H+] = -log 0.0**105** = 1.**979**
 
 ## Rounding
-If the number before the 5 is odd round up. If the number preceding the 5 is even round down.
+If the number removed is five then if the preceding number is odd round up. If the number preceding the 5 is even round down.
 
 17.75 = 17.8
 17.65 = 17.6

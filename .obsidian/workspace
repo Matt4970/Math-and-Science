@@ -9,25 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem 103/The Components of Matter.md",
+            "file": "ENCMP 100/Scientific Python Ecosystem.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "b5ffe9681a0ce242"
+        "group": "60b0581f16b6cac7"
       },
       {
-        "id": "35ec37d880eb863b",
+        "id": "0b066d9eb205382c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chem 103/The Components of Matter.md",
+            "file": "ENCMP 100/Scientific Python Ecosystem.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "b5ffe9681a0ce242"
+        "group": "60b0581f16b6cac7"
       }
     ],
     "direction": "vertical"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "numerical prefixes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 103/The Components of Matter.md",
+                "file": "ENCMP 100/Scientific Python Ecosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "width": 224.5,
     "collapsed": true
   },
-  "active": "35ec37d880eb863b",
+  "active": "0b066d9eb205382c",
   "lastOpenFiles": [
+    "Physics 30/Lenses.md",
+    "Physics 30/Fields.md",
+    "Physics 30/EMR and Visible Spectrum.md",
+    "Physics 30/Electromagnetism.md",
+    "Physics 30/Diffraction.md",
+    "ENGG 130 (Engineering Mechanics)/Lab Assignments.md",
+    "Chem 103/The Components of Matter.md",
     "Chem 103/Fundamental Definitions in Chemistry.md",
     "Chem 103/Formatting Answers.md",
-    "Chem 103/The Components of Matter.md",
-    "Applicable to All/Chemistry Laws.md",
-    "Chem 103/Class Info.md",
-    "Applicable to All/Physics Laws.md",
-    "Physics 130/Phase.md",
-    "Physics 130/Physics 130 Course Information.md",
-    "Physics 130/Properties of Oscillations.md",
-    "Physics 130/Simple Harmonic Motion.md"
+    "ENGG 130 (Engineering Mechanics)/Problem Solving.md"
   ]
 }

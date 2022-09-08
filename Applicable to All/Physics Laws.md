@@ -24,3 +24,8 @@ Charge is neither created nor destroyed, it can only be transferred from one sys
 ### Law of Conservation of Energy
 Energy can be neither created nor destroyed. It can only be converted from one form to another.
 
+## Specific Laws
+### Coulomb's Law
+The energy of attraction (or repulsion) between two particles is directly proportional to the product of the charges and inversely proportional to the distance between them.
+- Ions with higher charges exert more force on each other than ions of smaller charges.
+- Smaller ions exert more force on each other then larger ions because their charges are closer together.

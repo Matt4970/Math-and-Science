@@ -45,7 +45,7 @@ Answer: Charge 1 is positive and charge 2 is negative.
 ### Electric Field Strength in the Middle of Two Charges
 Two charges are separated by a distance of 20 cm. One has a charge of +2.0 uC and the other a charge of +4.0 uC. What is the magnitude of the electric field strength at the midway point between the two charges?
 
-Answer: $$ 1.8*10^6 N/C $$
+Answer: $1.8*10^6 N/C$
 
 
 
